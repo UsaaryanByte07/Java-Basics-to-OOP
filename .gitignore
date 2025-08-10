@@ -12,6 +12,7 @@
 target/
 bin/
 build/
+out/
 
 # VS Code settings
 .vscode/
