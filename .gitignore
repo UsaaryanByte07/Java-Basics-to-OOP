@@ -1,0 +1,27 @@
+# Java build files
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# Directories
+target/
+bin/
+build/
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+#Ignore tp.java
+tp.java
