@@ -1,0 +1,36 @@
+1] Java converts the code in Byte code which is then converted to Machine code by JVM(Java Virtual Machine). hence its cross platform compatible.
+
+2] Java is Backward Compatible.
+
+3] Java is Robust, Secure, Architecturally Neutral  and can do Multithreading
+
+4] Java is more secure as it runs on a virtual machine instead of your machine. Hance, the code is only provided with limited access
+
+5] Java uses a Compiler to convert the code to byte code which is then converted by a interpreter to machine code.
+
+6] Compiler Translates the entire source code into machine code before execution. Interpreter Translates and executes code line-by-line at runtime.
+
+7] OOP stands for Object-Oriented Programming, a programming paradigm that organizes code around objects rather than just functions and logic.
+
+   In OOP, everything revolves around:
+
+   Objects → Real-world entities represented in code (with properties and behaviors).
+
+   Classes → Blueprints for creating objects.
+
+8] On running a java file(ex: New.java) it is converted to a Byte code(ex: New.class) by the Java Compiler(javac). Then the byte code is converted to machine code by JVM.
+
+9] JVM(Java Virtual Machine)
+   • It's a part of JRE and responsible for executing the bytecode.
+   • Ensures Java’s write-once-run-anywhere capability.
+   • Not platform-independent: a different JVM is needed for each type of OS.
+
+10] JRE(Java Runtime Environment)
+    • It's a part of the JDK but can be downloaded separately.
+    • Provides the libraries, the JVM, and other components to run applications
+    • Does not have tools and utilities for developers like compilers or debuggers.
+
+11] JDK(Java Development Kit)
+    • It's a software development kit required to develop Java applications.
+    • Includes the JRE, an interpreter/loader (Java), a compiler (javac), a doc generator (Javadoc), and other tools needed for Java development.
+    • Essentially, JDK is a superset of JRE.
