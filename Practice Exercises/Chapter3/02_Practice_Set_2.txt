@@ -1,3 +1,4 @@
+True and false Questions:-
 1.In Java, a variable's name can start with a number.  -> False
 2.char in Java can store a single character.  -> True
 3.Class names in Java typically start with a lowercase letter.  -> False
