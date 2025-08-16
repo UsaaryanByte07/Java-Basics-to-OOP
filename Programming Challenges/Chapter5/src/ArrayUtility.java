@@ -80,4 +80,39 @@ public class ArrayUtility {
         }
         return newArr;
     }
+
+    // Method to return the total number of elements in a 2D array
+    public static int totalLength2DArray(int[][] arr) {
+        int total = 0;
+        for (int i = 0; i < arr.length; i++) {
+            total += arr[i].length;
+        }
+        return total;
+    }
+
+    //Method to Sort 1D Array in Ascending Order
+    public static void sortAscending1DArray(int[] arr){
+        for(int i = 0; i < arr.length; i++){
+            for(int j = 0; j < arr.length; j++){
+                if(j > i && arr[j] < arr[i]){
+                    arr[i] = arr[j]^arr[i];
+                    arr[j] = arr[j]^arr[i];
+                    arr[i] = arr[j]^arr[i];
+                }
+            }
+        }
+    }
+
+    //Method to Sort 1D Array in Descending Order
+    public static void sortDescending1DArray(int[] arr){
+        for(int i = 0; i < arr.length; i++){
+            for(int j = 0; j < arr.length; j++){
+                if(j > i && arr[j] > arr[i]){
+                    arr[i] = arr[j]^arr[i];
+                    arr[j] = arr[j]^arr[i];
+                    arr[i] = arr[j]^arr[i];
+                }
+            }
+        }
+    }
 }
