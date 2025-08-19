@@ -19,14 +19,16 @@ These challenges are designed to test your **application and problem-solving ski
 
 | Chapter | Link |
 |---------|------|
-| Chapter 2 | [Go to Folder](./Chapter2) |
-| Chapter 3 | [Go to Folder](./Chapter3) |
-| Chapter 4 | [Go to Folder](./Chapter4) |
+| Chapter 2 | [Go to Folder](./Chapter02) |
+| Chapter 3 | [Go to Folder](./Chapter03) |
+| Chapter 4 | [Go to Folder](./Chapter04) |
+| Chapter 5 | [Go to Folder](./Chapter05) |
+| Chapter 6 | [Go to Folder](./Chapter06) |
 
 ---
 
 ## 📈 Learning Progress  
-**3 out of 12** chapters completed with programming challenges.
+**5 out of 12** chapters completed with programming challenges.
 
 ---
 
