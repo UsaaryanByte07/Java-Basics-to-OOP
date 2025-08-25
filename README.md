@@ -12,7 +12,8 @@ This repository includes chapters, practice sets, and programming challenges to 
 - [Contribution](#contribution)
 
 ## About the Journey
-I am currently learning Java through the [Java YouTube playlist](https://youtube.com/playlist?list=PL78RhpUUKSweClRi_l05UgfE3053-zkRf&si=utNTYHQhIbd6s4wf) and plan to enroll in a **paid Udemy course** to master OOP concepts in greater depth.  
+I am currently learning Java through the [Java YouTube playlist](https://youtube.com/playlist?list=PL78RhpUUKSweClRi_l05UgfE3053-zkRf&si=utNTYHQhIbd6s4wf) and will be taking a **paid course from KGcoding** ([link](https://youtu.be/owPyWdYGC1A)) to master OOP concepts in greater depth.  
+This KGcoding course will also contribute to my DSA journey, which can be seen in my upcoming repository.  
 This journey will not only strengthen my OOP skills but will also lay the groundwork for my upcoming **Java Data Structures & Algorithms (DSA)** journey.
 
 ## Repository Structure
@@ -38,7 +39,7 @@ Easily jump to different sections of the repository:
 
 ## Resources
 - [Java Basics to OOP YouTube Playlist](https://youtube.com/playlist?list=PL78RhpUUKSweClRi_l05UgfE3053-zkRf&si=utNTYHQhIbd6s4wf) – My current learning resource.
-- Udemy Java OOP Course – Planned for deeper understanding.
+- [Paid KGcoding Java OOP Course](https://youtu.be/owPyWdYGC1A) – Planned for deeper understanding and DSA preparation.
 - Official Java Documentation – For accurate and detailed reference.
 
 ## Contribution

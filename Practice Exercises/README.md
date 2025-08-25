@@ -4,7 +4,7 @@ This folder contains **true/false-based practice sets** for most chapters of my 
 Each practice set is designed to **test theoretical understanding** of concepts covered in the respective chapter before moving on to coding challenges.
 
 ## 📊 Learning Progress
-**5 / 12 Practice Sets Completed**  
+**9 / 12 Practice Sets Completed**  
 *(There are 13 chapters in total, but Chapter 1 has no practice exercise.)*  
 📌 More exercises will be added as I progress through the chapters.
 
@@ -19,6 +19,10 @@ Each practice set is designed to **test theoretical understanding** of concepts 
 | [Chapter 4 - Operators, If-Else, and Number System](./Chapter04/03_Practice_Set_3.txt) | 03_Practice_Set_3.txt |
 | [Chapter 5 - Basic Loops, Methods, and Arrays](./Chapter05/04_Practice_Set_4.txt) | 04_Practice_Set_4.txt |
 | [Chapter 6 - Classes and Objects](./Chapter06/05_Practice_Set_5.txt) | 05_Practice_Set_5.txt |
+| [Chapter 7 - Control Statements, Math and String](./Chapter07/06_Practice_Set_6.txt) | 06_Practice_Set_6.txt |
+| [Chapter 8 - Encapsulation and Inheritence](./Chapter08/07_Practice_Set_7.txt) | 07_Practice_Set_7.txt |
+| [Chapter 9 - Abstraction and Polymorphism](./Chapter09/08_Practice_Set_8.txt) | 08_Practice_Set_8.txt |
+| [Chapter 10 - Exception and File Handling](./Chapter10/09_Practice_Set_9.txt) | 09_Practice_Set_9.txt |
 
 ---
 

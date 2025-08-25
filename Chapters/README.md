@@ -12,56 +12,73 @@ I’m documenting notes, examples, and source code for everything I learn.
 - [Chapter 4: Operators, If-Else, and Number System](#chapter-4-operators-if-else-and-number-system)
 - [Chapter 5: Basic Loops, Methods, and Arrays](#chapter-5-basic-loops-methods-and-arrays)
 - [Chapter 6: Classes and Objects](#chapter-6-classes-and-objects)
+- [Chapter 7: Control Statements, Math and String](#chapter-7-control-statements-math-and-string)
+- [Chapter 8: Encapsulation and Inheritence](#chapter-8-encapsulation-and-inheritence)
+- [Chapter 9: Abstraction and Polymorphism](#chapter-9-abstraction-and-polymorphism)
+- [Chapter 10: Exception and File Handling](#chapter-10-exception-and-file-handling)
 - [📌 More Chapters Coming Soon](#-more-chapters-coming-soon)
 - [📝 Notes](#-notes)
 - [🎯 Future Plans](#-future-plans)
 
 ---
 
-## 📊 Learning Progress
-![Progress](https://progress-bar.dev/5/?scale=13&title=Chapters&width=300&color=green)  
-*(5 out of 13 planned chapters completed)*
+## 📊 Learning Progress  
+10 out of 13 planned chapters completed
 
 ---
 
-## [Chapter 1: Introduction to Java](./Chapter01(Introduction%20to%20Java)/Topic001(Java%20Introduction))
+## [Chapter 1: Introduction to Java](./Chapter01(Introduction%20to%20Java)/)
 - **Topics Covered**: Overview of Java, Features, JVM, JDK, JRE
-- **Code Files**: [Java_Intro.txt](./Chapter01(Introduction%20to%20Java)/Topic001(Java%20Introduction)/Java_Intro.txt)
 
 ---
 
-## [Chapter 2: Java Basics](./Chapter02(Java%20Basics)/Topic002(First%20Program))
+## [Chapter 2: Java Basics](./Chapter02(Java%20Basics)/)
 - **Topics Covered**: First Java Program, Syntax, Compilation & Execution
-- **Code Files**: [FirstProgram.java](./Chapter02(Java%20Basics)/Topic002(First%20Program)/src/FirstProgram.java)
 
 ---
 
-## [Chapter 3: Datatypes, Variables, and Input](./Chapter03(Datatypes,%20Variables%20and%20Input))
+## [Chapter 3: Datatypes, Variables, and Input](./Chapter03(Datatypes,%20Variables%20and%20Input)/)
 - **Topics Covered**: Primitive Data Types, Variables, Escape Sequences, User Input, Type Conversion
-- **Code Files**: [Variables.java](./Chapter03(Datatypes,%20Variables%20and%20Input)/Topic003(Variables)/src/Variables.java), [Escape_Sequences.java](./Chapter03(Datatypes,%20Variables%20and%20Input)/Topic004(Escape%20Sequences)/src/Escape_Sequences.java), [UserInput.java](./Chapter03(Datatypes,%20Variables%20and%20Input)/Topic005(User%20Input)/src/UserInput.java), [TypeConversion.java](./Chapter03(Datatypes,%20Variables%20and%20Input)/Topic006(Type%20Conversion)/src/TypeConversion.java)
 
 ---
 
-## [Chapter 4: Operators, If-Else, and Number System](./Chapter04(Operators,%20If-else%20and%20Number%20System))
+## [Chapter 4: Operators, If-Else, and Number System](./Chapter04(Operators,%20If-else%20and%20Number%20System)/)
 - **Topics Covered**: Assignment, Arithmetic, Order of Operations, Shorthand, Unary, Relational, Logical, Bitwise Operators, If-Else
-- **Code Files**: [AssignmentOperator.java](./Chapter04(Operators,%20If-else%20and%20Number%20System)/Topic007(Assignment%20Operators)/src/AssignmentOperator.java), [ArithematicOperator.java](./Chapter04(Operators,%20If-else%20and%20Number%20System)/Topic008(Arithematic%20Operators)/src/ArithematicOperator.java), [OrderOfOperationInArithematicOperators.java](./Chapter04(Operators,%20If-else%20and%20Number%20System)/Topic009(Order%20of%20Operation%20in%20Arithematic%20Operators)/src/OrderOfOperationInArithematicOperators.java), [ShortHandOperators.java](./Chapter04(Operators,%20If-else%20and%20Number%20System)/Topic010(Shorthand%20Operators)/src/ShortHandOperators.java), [UnaryOperators.java](./Chapter04(Operators,%20If-else%20and%20Number%20System)/Topic011(Unary%20Operators)/src/UnaryOperators.java), [LearningIf.java](./Chapter04(Operators,%20If-else%20and%20Number%20System)/Topic012(learning%20If)/src/LearningIf.java), [RelationalOperators.java](./Chapter04(Operators,%20If-else%20and%20Number%20System)/Topic013(Relational%20Operartors)/src/RelationalOperators.java), [LogicalOperator.java](./Chapter04(Operators,%20If-else%20and%20Number%20System)/Topic014(Logical%20Operators)/src/LogicalOperator.java), [BitwiseOperator.java](./Chapter04(Operators,%20If-else%20and%20Number%20System)/Topic015(Bitwise%20Operators)/src/BitwiseOperator.java)
 
 ---
 
-## [Chapter 5: Basic Loops, Methods, and Arrays](./Chapter05(While%20Loop,%20Methods,%20and%20Arrays))
+## [Chapter 5: Basic Loops, Methods, and Arrays](./Chapter05(Basic%20Loops,%20Methods,%20and%20Arrays)/))
 - **Topics Covered**: Comments, Loops, Methods, Parameters, Return Values, Arrays, Searching in Arrays, 2D Arrays
-- **Code Files**: [Comments.java](./Chapter05(While%20Loop,%20Methods,%20and%20Arrays)/Topic016(Comments)/src/Comments.java), [Loop.java](./Chapter05(While%20Loop,%20Methods,%20and%20Arrays)/Topic017(Loops)/src/Loop.java), [FunctionOrMethod.java](./Chapter05(While%20Loop,%20Methods,%20and%20Arrays)/Topic018(Function%20or%20Methods)/src/FunctionOrMethod.java), [Return.java](./Chapter05(While%20Loop,%20Methods,%20and%20Arrays)/Topic019(Return%20statement)/src/Return.java), [Parameter.java](./Chapter05(While%20Loop,%20Methods,%20and%20Arrays)/Topic020(Parameters%20in%20Functions)/src/Parameter.java), [Array.java](./Chapter05(While%20Loop,%20Methods,%20and%20Arrays)/Topic021(Arrays)/src/Array.java), [ArraySreaching.java](./Chapter05(While%20Loop,%20Methods,%20and%20Arrays)/Topic022(Array%20Searching)/src/ArraySreaching.java), [TwoDimensionalArray.java](./Chapter05(While%20Loop,%20Methods,%20and%20Arrays)/Topic023(2D%20Arrays)/src/TwoDimensionalArray.java)
 
 ---
 
-## [Chapter 6: Classes and Objects](./Chapter06(Classes%20and%20Objects)/Topic024(Everthing%20About%20Classes%20and%20Object))
+## [Chapter 6: Classes and Objects](./Chapter06(Classes%20and%20Objects)/)
 - **Topics Covered**: Classes, Objects, Constructors, Methods, Fields, Real-life Examples
-- **Code Files**: [Car.java](./Chapter06(Classes%20and%20Objects)/Topic024(Everthing%20About%20Classes%20and%20Object)/src/Car.java), [Driver.java](./Chapter06(Classes%20and%20Objects)/Topic024(Everthing%20About%20Classes%20and%20Object)/src/Driver.java), [01Note.txt](./Chapter06(Classes%20and%20Objects)/Topic024(Everthing%20About%20Classes%20and%20Object)/src/01Note.txt)
+
+---
+
+## [Chapter 7: Control Statements, Math and String](./Chapter07\(Control%20Statements,%20Math%20and%20String\)\)/)
+- **Topics Covered**: Ternary operator, Switch, Loops (Do-while, For, For each), Using break & continue, Recursion, Random Numbers & Math class, Don’t Learn Syntax, toString Method, String class, StringBuffer vs StringBuilder, Final keyword
+
+---
+
+## [Chapter 8: Encapsulation and Inheritence](./Chapter08(Encapsulation%20and%20Inheritence)/)
+- **Topics Covered**: Intro to OOPs Principle, What is Encapsulation, Import & Packages , Access Modifiers, Getter and Setter, What is Inheritance, Types of Inheritance, Object class, Equals and Hash Code, Nested and Inner Classes
+
+---
+
+## [Chapter 9: Abstraction and Polymorphism](./Chapter09(Abstraction%20and%20Polymorphism)/)
+- **Topics Covered**: What is Abstraction, Abstract Keyword, Interfaces, What is Polymorphism, References and Objects, Method / Constructor Overloading, Super Keyword, Method / Constructor Overriding, Final keyword revisited, Pass by Value vs Pass by reference.
+
+---
+
+## [Chapter 10: Exception and File Handling](./Chapter10(Exception%20and%20File%20Handling)/)
+- **Topics Covered**: Try-and-Catch, Throws and Throw, Exception Stack Trace, Custom Exceptions, Finally Block, File Writer and Reader
 
 ---
 
 ## 📌 More Chapters Coming Soon
-I’ll keep updating this repository as I progress through **Object-Oriented Programming, Inheritance, Polymorphism, Interfaces, Java Collections, File I/O, and more**.
+I’ll keep updating this repository as I progress through **Java Collections and Generics, Multi Threading and Executors service, functional Programming, and more**.
 
 ---
 

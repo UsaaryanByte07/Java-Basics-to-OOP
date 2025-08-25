@@ -9,7 +9,7 @@ These challenges are designed to test your **application and problem-solving ski
 
 - Each chapter folder contains:
   - `src/` → Java source files for the challenges.
-  - `out/` → Compiled `.class` files (ignored by Git).
+  - `bin/` → Compiled `.class` files (ignored by Git).
 - No challenges are available for Chapter 1.
 - More challenges will be added as learning progresses.
 
@@ -24,11 +24,15 @@ These challenges are designed to test your **application and problem-solving ski
 | Chapter 4 | [Go to Folder](./Chapter04) |
 | Chapter 5 | [Go to Folder](./Chapter05) |
 | Chapter 6 | [Go to Folder](./Chapter06) |
+| Chapter 7 | [Go to Folder](./Chapter07) |
+| Chapter 8 | [Go to Folder](./Chapter08) |
+| Chapter 9 | [Go to Folder](./Chapter09) |
+| Chapter 10 | [Go to Folder](./Chapter10) |
 
 ---
 
 ## 📈 Learning Progress  
-**5 out of 12** chapters completed with programming challenges.
+**9 out of 12** chapters completed with programming challenges.
 
 ---
 
