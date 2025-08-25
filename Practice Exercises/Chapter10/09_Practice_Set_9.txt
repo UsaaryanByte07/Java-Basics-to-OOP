@@ -1,0 +1,11 @@
+True and False Question: 
+1. A method that throws a checked exception must declare the exception using the throws keyword in its signature.  -> True 
+2. It is possible to handle more than one type of exception in a single catch block.  -> True
+3. The finally block is always executed, even if a return statement is encountered in the try or catch block.  -> True
+4. If both try and catch blocks have return statements, the finally block will not execute.  -> False
+5. You can throw an exception of any type, including custom exceptions, using the throw keyword.  -> True
+6. If a try block does not throw any exception, the catch block is executed for cleanup purposes.  -> False
+7. Unchecked exceptions are a direct subclass of Throwable.  -> False
+8. A catch block can exist independently of a try block.  -> False 
+9. You can nest try blocks within another try block.  -> True
+10.The throw keyword is used to propagate an exception up the call stack.  -> True
