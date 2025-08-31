@@ -1,0 +1,11 @@
+True and False Question:
+1. In Java, the main thread is the only user thread that is created automatically when a program starts.  -> True
+2. The run() method is automatically called when a thread is started using the start() method.  -> True 
+3. A thread can be in both the Runnable and Running state at the same time.  -> False
+4. Lower priority threads are executed first to ensure equal processing time for all threads.  -> False
+5. The join() method causes the calling thread to immediately stop executing until the thread it joins with stops running.  -> True
+6. Using the synchronized keyword can prevent two threads from executing a method simultaneously.  -> True
+7. The notify() method wakes up all threads that are waiting on the object's monitor.  -> False
+8. The ExecutorService must be explicitly shut down to terminate the threads it manages.  -> True
+9. A Callable task cannot be submitted to an ExecutorService.  -> False
+10. The Thread.yield() method forces a thread to stop its execution permanently.  -> False
