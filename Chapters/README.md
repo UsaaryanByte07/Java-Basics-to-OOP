@@ -16,6 +16,9 @@ I’m documenting notes, examples, and source code for everything I learn.
 - [Chapter 8: Encapsulation and Inheritence](#chapter-8-encapsulation-and-inheritence)
 - [Chapter 9: Abstraction and Polymorphism](#chapter-9-abstraction-and-polymorphism)
 - [Chapter 10: Exception and File Handling](#chapter-10-exception-and-file-handling)
+- [Chapter 11: Collections and Generics](#chapter-11-collections-and-generics)
+- [Chapter 12: Multi-threading and Executor Service](#chapter-12-multi-threading-and-executor-service)
+- [Chapter 13: Functional Programming](#chapter-13-functional-programming)
 - [📌 More Chapters Coming Soon](#-more-chapters-coming-soon)
 - [📝 Notes](#-notes)
 - [🎯 Future Plans](#-future-plans)
@@ -77,8 +80,24 @@ I’m documenting notes, examples, and source code for everything I learn.
 
 ---
 
+## [Chapter 11: Collections and Generics](./Chapter11(Collections%20and%20Generics)/)
+- **Topics Covered**: Variable Arguments, Wrapper Classes & Autoboxing, Collections Library, List Interface, Queue Interface, Set Interface, Collections Class, Map Interface, Enums, Generics & Diamond Operators
+
+---
+
+## [Chapter 12: Multi-threading and Executor Service](./Chapter12(Multi-threading%20and%20Executor%20Service)/)
+- **Topics Covered**: Intro to Multi-threading, Creating a Thread, States of a Thread, Thread Priority, Join Method, Synchronize keyword, Thread Communication, Intro to Executor Service, Multiple Threads with Executor, Returning Futures
+
+
+---
+
+## [Chapter 13: Functional Programming](./Chapter13(Functional%20Programming)/)
+- **Topics Covered**: What is Functional Programming, Lambda Expression, What is a Stream, Filtering & Reducing, Functional Interfaces, Method References, Functional vs Structural Programming, Optional Class, Intermediate vs Terminal Operations, Max, Min, Collect to List, Sort, Distinct, Map
+
+---
+
 ## 📌 More Chapters Coming Soon
-I’ll keep updating this repository as I progress through **Java Collections and Generics, Multi Threading and Executors service, functional Programming, and more**.
+I’ll keep updating this repository as I progress through my Java learning journey.
 
 ---
 

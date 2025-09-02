@@ -28,11 +28,14 @@ These challenges are designed to test your **application and problem-solving ski
 | Chapter 8 | [Go to Folder](./Chapter08) |
 | Chapter 9 | [Go to Folder](./Chapter09) |
 | Chapter 10 | [Go to Folder](./Chapter10) |
+| Chapter 11 | [Go to Folder](./Chapter11) |
+| Chapter 12 | [Go to Folder](./Chapter12) |
+| Chapter 13 | [Go to Folder](./Chapter13) |
 
 ---
 
 ## 📈 Learning Progress  
-**9 out of 12** chapters completed with programming challenges.
+**12 out of 12** chapters completed with programming challenges.
 
 ---
 

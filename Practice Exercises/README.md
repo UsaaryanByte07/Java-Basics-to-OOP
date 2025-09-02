@@ -4,7 +4,7 @@ This folder contains **true/false-based practice sets** for most chapters of my 
 Each practice set is designed to **test theoretical understanding** of concepts covered in the respective chapter before moving on to coding challenges.
 
 ## 📊 Learning Progress
-**9 / 12 Practice Sets Completed**  
+**12 / 12 Practice Sets Completed**  
 *(There are 13 chapters in total, but Chapter 1 has no practice exercise.)*  
 📌 More exercises will be added as I progress through the chapters.
 
@@ -23,6 +23,9 @@ Each practice set is designed to **test theoretical understanding** of concepts 
 | [Chapter 8 - Encapsulation and Inheritence](./Chapter08/07_Practice_Set_7.txt) | 07_Practice_Set_7.txt |
 | [Chapter 9 - Abstraction and Polymorphism](./Chapter09/08_Practice_Set_8.txt) | 08_Practice_Set_8.txt |
 | [Chapter 10 - Exception and File Handling](./Chapter10/09_Practice_Set_9.txt) | 09_Practice_Set_9.txt |
+| [Chapter 11 - Collections and Generics](./Chapter11/10_Practice_Set_10.txt) | 10_Practice_Set_10.txt |
+| [Chapter 12 - Multi-threading and Executor Service](./Chapter12/11_Practice_Set_11.txt) | 11_Practice_Set_11.txt |
+| [Chapter 13 - Functional Programming](./Chapter13/12_Practice_Set_12.txt) | 12_Practice_Set_12.txt |
 
 ---
 

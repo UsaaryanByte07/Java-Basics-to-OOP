@@ -33,7 +33,6 @@ Easily jump to different sections of the repository:
 - Maintain a personal reference for revision and future projects.
 
 ## Future Plans
-- Complete all chapters with corresponding practice sets and challenges.
 - Deep dive into OOP with the Udemy course.
 - Transition into **Java DSA** for problem-solving and competitive programming.
 
